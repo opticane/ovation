@@ -3,12 +3,9 @@ Opticane is a white cane for the visually impaired that uses a novel primitive h
 
 Winners of the SDP 1st Place Prize and Github "Shipping Prize".
 
-###Repositories:
+### Repositories:
 
 [Hardware and Software](https://github.com/opticane/opticals)
-
 [Simulation](https://github.com/opticane/osims)
-
 [Website](https://opticane.github.io)
-
 [Reports](https://github.com/opticane/oreports)
